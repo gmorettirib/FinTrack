@@ -1,24 +1,20 @@
-# Welcome to your Lovable project
+# FinTrack
 
-This project was built with [Lovable](https://lovable.dev).
-
-## Build with Lovable
-
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+Aplicação frontend para controle financeiro pessoal construída com TanStack Start, React, TypeScript, Tailwind CSS e shadcn/ui.
 
 ## Development
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+Use Node.js com npm para desenvolver localmente.
 
 ```sh
-git clone <this-repository-url>
-cd <repository-name>
 npm i
 npm run dev
+```
+
+## Build
+
+```sh
+npm run build
 ```
 
 ## Built with
